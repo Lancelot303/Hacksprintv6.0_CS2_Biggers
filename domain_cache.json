@@ -1,0 +1,462 @@
+{
+    "example.com": {
+        "url": "example.com",
+        "access": "allowed"
+    },
+    "badwebsite.com": {
+        "url": "badwebsite.com",
+        "access": "allowed"
+    },
+    "mitm.it": {
+        "url": "mitm.it",
+        "access": "allowed"
+    },
+    "mobile.events.data.microsoft.com": {
+        "url": "mobile.events.data.microsoft.com",
+        "access": "allowed"
+    },
+    "www.sanmargprakasshan.org": {
+        "url": "www.sanmargprakasshan.org",
+        "access": "allowed"
+    },
+    "www.google-analytics.com": {
+        "url": "www.google-analytics.com",
+        "access": "allowed"
+    },
+    "www.googletagmanager.com": {
+        "url": "www.googletagmanager.com",
+        "access": "allowed"
+    },
+    "securetoken.googleapis.com": {
+        "url": "securetoken.googleapis.com",
+        "access": "allowed"
+    },
+    "addons-pa.clients6.google.com": {
+        "url": "addons-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "www.wikipedia.org": {
+        "url": "www.wikipedia.org",
+        "access": "allowed"
+    },
+    "ocsp.entrust.net": {
+        "url": "ocsp.entrust.net",
+        "access": "allowed"
+    },
+    "c.pki.goog": {
+        "url": "c.pki.goog",
+        "access": "allowed"
+    },
+    "www.reddit.com": {
+        "url": "www.reddit.com",
+        "access": "allowed"
+    },
+    "www.redditstatic.com": {
+        "url": "www.redditstatic.com",
+        "access": "allowed"
+    },
+    "id.rlcdn.com": {
+        "url": "id.rlcdn.com",
+        "access": "allowed"
+    },
+    "external-preview.redd.it": {
+        "url": "external-preview.redd.it",
+        "access": "allowed"
+    },
+    "styles.redditmedia.com": {
+        "url": "styles.redditmedia.com",
+        "access": "allowed"
+    },
+    "preview.redd.it": {
+        "url": "preview.redd.it",
+        "access": "allowed"
+    },
+    "b.thumbs.redditmedia.com": {
+        "url": "b.thumbs.redditmedia.com",
+        "access": "allowed"
+    },
+    "alb.reddit.com": {
+        "url": "alb.reddit.com",
+        "access": "allowed"
+    },
+    "w3-reporting.reddit.com": {
+        "url": "w3-reporting.reddit.com",
+        "access": "allowed"
+    },
+    "ad-delivery.net": {
+        "url": "ad-delivery.net",
+        "access": "allowed"
+    },
+    "gql-realtime.reddit.com": {
+        "url": "gql-realtime.reddit.com",
+        "access": "allowed"
+    },
+    "accounts.google.com": {
+        "url": "accounts.google.com",
+        "access": "allowed"
+    },
+    "v.redd.it": {
+        "url": "v.redd.it",
+        "access": "allowed"
+    },
+    "a.thumbs.redditmedia.com": {
+        "url": "a.thumbs.redditmedia.com",
+        "access": "allowed"
+    },
+    "content-autofill.googleapis.com": {
+        "url": "content-autofill.googleapis.com",
+        "access": "allowed"
+    },
+    "matrix.redditspace.com": {
+        "url": "matrix.redditspace.com",
+        "access": "allowed"
+    },
+    "ssl.gstatic.com": {
+        "url": "ssl.gstatic.com",
+        "access": "allowed"
+    },
+    "chatgpt.com": {
+        "url": "chatgpt.com",
+        "access": "allowed"
+    },
+    "play.google.com": {
+        "url": "play.google.com",
+        "access": "allowed"
+    },
+    "driveactivity.clients6.google.com": {
+        "url": "driveactivity.clients6.google.com",
+        "access": "allowed"
+    },
+    "chat.google.com": {
+        "url": "chat.google.com",
+        "access": "allowed"
+    },
+    "clients6.google.com": {
+        "url": "clients6.google.com",
+        "access": "allowed"
+    },
+    "colab.research.google.com": {
+        "url": "colab.research.google.com",
+        "access": "allowed"
+    },
+    "drive.google.com": {
+        "url": "drive.google.com",
+        "access": "allowed"
+    },
+    "www.google.com": {
+        "url": "www.google.com",
+        "access": "allowed"
+    },
+    "firestore.googleapis.com": {
+        "url": "firestore.googleapis.com",
+        "access": "allowed"
+    },
+    "encrypted-tbn0.gstatic.com": {
+        "url": "encrypted-tbn0.gstatic.com",
+        "access": "allowed"
+    },
+    "clients4.google.com": {
+        "url": "clients4.google.com",
+        "access": "allowed"
+    },
+    "optimizationguide-pa.googleapis.com": {
+        "url": "optimizationguide-pa.googleapis.com",
+        "access": "allowed"
+    },
+    "emoji.redditmedia.com": {
+        "url": "emoji.redditmedia.com",
+        "access": "allowed"
+    },
+    "www.gstatic.com": {
+        "url": "www.gstatic.com",
+        "access": "allowed"
+    },
+    "fonts.gstatic.com": {
+        "url": "fonts.gstatic.com",
+        "access": "allowed"
+    },
+    "lh3.google.com": {
+        "url": "lh3.google.com",
+        "access": "allowed"
+    },
+    "ogads-pa.clients6.google.com": {
+        "url": "ogads-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "lh3.googleusercontent.com": {
+        "url": "lh3.googleusercontent.com",
+        "access": "allowed"
+    },
+    "ogs.google.com": {
+        "url": "ogs.google.com",
+        "access": "allowed"
+    },
+    "8080-m-s-1vb3m3afllbwr-b.us-east1-1.prod.colab.dev": {
+        "url": "8080-m-s-1vb3m3afllbwr-b.us-east1-1.prod.colab.dev",
+        "access": "allowed"
+    },
+    "waa-pa.clients6.google.com": {
+        "url": "waa-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "mail.google.com": {
+        "url": "mail.google.com",
+        "access": "allowed"
+    },
+    "signaler-pa.clients6.google.com": {
+        "url": "signaler-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "stake.com": {
+        "url": "stake.com",
+        "access": "allowed"
+    },
+    "threat.api.mcafee.com": {
+        "url": "threat.api.mcafee.com",
+        "access": "allowed"
+    },
+    "appsitemsuggest-pa.googleapis.com": {
+        "url": "appsitemsuggest-pa.googleapis.com",
+        "access": "allowed"
+    },
+    "www.googleapis.com": {
+        "url": "www.googleapis.com",
+        "access": "allowed"
+    },
+    "dream11.com": {
+        "url": "dream11.com",
+        "access": "blocked"
+    },
+    "www.dream11.com": {
+        "url": "www.dream11.com",
+        "access": "allowed"
+    },
+    "d13ir53smqqeyp.cloudfront.net": {
+        "url": "d13ir53smqqeyp.cloudfront.net",
+        "access": "allowed"
+    },
+    "cdnflags.dream11.com": {
+        "url": "cdnflags.dream11.com",
+        "access": "allowed"
+    },
+    "connect.facebook.net": {
+        "url": "connect.facebook.net",
+        "access": "allowed"
+    },
+    "sc-static.net": {
+        "url": "sc-static.net",
+        "access": "allowed"
+    },
+    "www.facebook.com": {
+        "url": "www.facebook.com",
+        "access": "allowed"
+    },
+    "fonts.googleapis.com": {
+        "url": "fonts.googleapis.com",
+        "access": "allowed"
+    },
+    "d11-web-sdk.dream11.com": {
+        "url": "d11-web-sdk.dream11.com",
+        "access": "allowed"
+    },
+    "tr.snapchat.com": {
+        "url": "tr.snapchat.com",
+        "access": "allowed"
+    },
+    "tr6.snapchat.com": {
+        "url": "tr6.snapchat.com",
+        "access": "allowed"
+    },
+    "pixel.tapad.com": {
+        "url": "pixel.tapad.com",
+        "access": "allowed"
+    },
+    "d11-pwa-datahighway.dream11.com": {
+        "url": "d11-pwa-datahighway.dream11.com",
+        "access": "allowed"
+    },
+    "prod-dynamite-prod-09-us-signaler-pa.clients6.google.com": {
+        "url": "prod-dynamite-prod-09-us-signaler-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "docs.google.com": {
+        "url": "docs.google.com",
+        "access": "allowed"
+    },
+    "lh7-rt.googleusercontent.com": {
+        "url": "lh7-rt.googleusercontent.com",
+        "access": "allowed"
+    },
+    "peoplestack-pa.clients6.google.com": {
+        "url": "peoplestack-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "www.youtube.com": {
+        "url": "www.youtube.com",
+        "access": "allowed"
+    },
+    "crl3.digicert.com": {
+        "url": "crl3.digicert.com",
+        "access": "allowed"
+    },
+    "ab.chatgpt.com": {
+        "url": "ab.chatgpt.com",
+        "access": "allowed"
+    },
+    "ecs.office.com": {
+        "url": "ecs.office.com",
+        "access": "allowed"
+    },
+    "drivefrontend-pa.clients6.google.com": {
+        "url": "drivefrontend-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "github.com": {
+        "url": "github.com",
+        "access": "allowed"
+    },
+    "github.githubassets.com": {
+        "url": "github.githubassets.com",
+        "access": "allowed"
+    },
+    "avatars.githubusercontent.com": {
+        "url": "avatars.githubusercontent.com",
+        "access": "allowed"
+    },
+    "api.github.com": {
+        "url": "api.github.com",
+        "access": "allowed"
+    },
+    "collector.github.com": {
+        "url": "collector.github.com",
+        "access": "allowed"
+    },
+    "safebrowsing.brave.com": {
+        "url": "safebrowsing.brave.com",
+        "access": "allowed"
+    },
+    "safebrowsing.googleapis.com": {
+        "url": "safebrowsing.googleapis.com",
+        "access": "allowed"
+    },
+    "alive.github.com": {
+        "url": "alive.github.com",
+        "access": "allowed"
+    },
+    "sb-ssl.google.com": {
+        "url": "sb-ssl.google.com",
+        "access": "allowed"
+    },
+    "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com": {
+        "url": "github-production-upload-manifest-file-7fdce7.s3.amazonaws.com",
+        "access": "allowed"
+    },
+    "cloudsearch.googleapis.com": {
+        "url": "cloudsearch.googleapis.com",
+        "access": "allowed"
+    },
+    "i.ytimg.com": {
+        "url": "i.ytimg.com",
+        "access": "allowed"
+    },
+    "googleads.g.doubleclick.net": {
+        "url": "googleads.g.doubleclick.net",
+        "access": "allowed"
+    },
+    "www.google.co.in": {
+        "url": "www.google.co.in",
+        "access": "allowed"
+    },
+    "i9.ytimg.com": {
+        "url": "i9.ytimg.com",
+        "access": "allowed"
+    },
+    "yt3.ggpht.com": {
+        "url": "yt3.ggpht.com",
+        "access": "allowed"
+    },
+    "accounts.youtube.com": {
+        "url": "accounts.youtube.com",
+        "access": "allowed"
+    },
+    "static.doubleclick.net": {
+        "url": "static.doubleclick.net",
+        "access": "allowed"
+    },
+    "rr1---sn-gwpa-2o9l.googlevideo.com": {
+        "url": "rr1---sn-gwpa-2o9l.googlevideo.com",
+        "access": "allowed"
+    },
+    "rr6---sn-gwpa-2o9s.googlevideo.com": {
+        "url": "rr6---sn-gwpa-2o9s.googlevideo.com",
+        "access": "allowed"
+    },
+    "waa-pa.googleapis.com": {
+        "url": "waa-pa.googleapis.com",
+        "access": "allowed"
+    },
+    "id.google.com": {
+        "url": "id.google.com",
+        "access": "allowed"
+    },
+    "www.googleadservices.com": {
+        "url": "www.googleadservices.com",
+        "access": "allowed"
+    },
+    "login.live.com": {
+        "url": "login.live.com",
+        "access": "allowed"
+    },
+    "graph.microsoft.com": {
+        "url": "graph.microsoft.com",
+        "access": "allowed"
+    },
+    "onedriveclucprodbn20042.blob.core.windows.net": {
+        "url": "onedriveclucprodbn20042.blob.core.windows.net",
+        "access": "allowed"
+    },
+    "ctldl.windowsupdate.com": {
+        "url": "ctldl.windowsupdate.com",
+        "access": "allowed"
+    },
+    "roaming.officeapps.live.com": {
+        "url": "roaming.officeapps.live.com",
+        "access": "allowed"
+    },
+    "peoplestackwebexperiments-pa.clients6.google.com": {
+        "url": "peoplestackwebexperiments-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "taskassist-pa.clients6.google.com": {
+        "url": "taskassist-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "appswaldo-pa.clients6.google.com": {
+        "url": "appswaldo-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "drive-thirdparty.googleusercontent.com": {
+        "url": "drive-thirdparty.googleusercontent.com",
+        "access": "allowed"
+    },
+    "apis.google.com": {
+        "url": "apis.google.com",
+        "access": "allowed"
+    },
+    "appsgrowthpromo-pa.clients6.google.com": {
+        "url": "appsgrowthpromo-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "people-pa.clients6.google.com": {
+        "url": "people-pa.clients6.google.com",
+        "access": "allowed"
+    },
+    "youtube.googleapis.com": {
+        "url": "youtube.googleapis.com",
+        "access": "allowed"
+    },
+    "contacts.google.com": {
+        "url": "contacts.google.com",
+        "access": "allowed"
+    }
+}
