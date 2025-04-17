@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 from flask import Flask, request, jsonify
+import requests
 import threading
 import json
 from pathlib import Path
@@ -10,6 +11,7 @@ app = Flask(__name__)
 
 # Output file (JSON Lines format: 1 JSON per line)
 OUTPUT_FILE = Path("scraper_output.json")
+FRIEND_URL = "http://192.168.197.77:5005/predict"
 file_lock = threading.Lock()
 
 
@@ -51,6 +53,11 @@ def process_domain(domain):
     title, description = fetch_metadata(domain)
     result = {"domain": domain, "title": title, "description": description}
     if title not in ["Fetch Failed", "No Title"] and title.strip():
+        try:
+            requests.post(FRIEND_URL, json=result, timeout=2)
+            print("Done")
+        except:
+            pass
         with file_lock:
             with open(OUTPUT_FILE, "a") as f:
                 f.write(json.dumps(result) + "\n")

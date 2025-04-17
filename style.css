@@ -82,6 +82,7 @@ main {
 }
 
 #searchInput {
+  margin-top: 20px; /* adjust as needed */
   padding: 0.75rem 1rem 0.75rem 2.5rem;
   width: 300px;
   border: 1px solid var(--border-color);
